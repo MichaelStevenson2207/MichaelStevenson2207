@@ -19,6 +19,7 @@ I lead a cool wee team crafting applications for citizen of Northern Ireland in 
 
 - Online divorce NI
 - Redundancy payments service NI
+- Various redevelopments of old legacy systems
 <!--
 **MichaelStevenson2207/MichaelStevenson2207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-### Hi there I am Michael👋
+### Hi I am Michael👋
 
 www.micstevenson.co.uk
 
@@ -31,7 +31,7 @@ I lead a cool wee team crafting applications for citizen of Northern Ireland in 
 - Kinder Buenos
 
 ⚡ Fun fact:
-- I am juggler and can juggle fire! 🔥
+- I am a juggler and can juggle fire! 🔥
 
 📫 How to reach me:
 - Reach me on <a href="https://twitter.com/mikeatronic">twitter</a>

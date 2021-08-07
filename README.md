@@ -14,7 +14,7 @@ I lead a cool wee team crafting applications for citizen of Northern Ireland in 
 
 :volcano: Recently completed projects:
 - <a href="https://check-eligibility.nidirect.gov.uk/probate">Apply for Probate online</a> Northern Ireland for DoJ (a massive project)
-- Pointer NI address lookup api
+- <a href="https://edd-pointerapi-production.london.cloudapps.digital/index.html">Pointer NI</a> address lookup api
 - BCS time recording system
 
 :ship: Future projects:

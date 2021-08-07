@@ -8,7 +8,7 @@ I lead a cool wee team crafting applications for citizen of Northern Ireland in 
 🔭 I’m currently working on:
 - Department of Education NI Exceptional closures application
 - Department of Education NI Apply to be a governor application
-- <a href="https://de-institutions-api-sandbox.london.cloudapps.digital/index.html">Department of Education NI Schools & Institutions api</a>
+- Department of Education NI <a href="https://de-institutions-api-sandbox.london.cloudapps.digital/index.html">Schools & Institutions api</a>
 - LPS Reval 2023
 - Various class library toolkits
 

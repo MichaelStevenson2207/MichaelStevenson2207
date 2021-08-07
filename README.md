@@ -29,6 +29,7 @@ I lead a cool wee team crafting applications for citizen of Northern Ireland in 
 - Dr. Pepper
 - Pizza 🍕
 - Kinder Buenos
+- Man City
 
 ⚡ Fun fact:
 - I am a juggler and can juggle fire! 🔥

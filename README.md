@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I am Michael👋
+
+www.micstevenson.co.uk
 
 I am a lead developer in the Northern Ireland Civil Service in Enterprise Digital Development, Department of Finance.
 I lead a cool wee team crafting applications for citizen of Northern Ireland in order to improve their experience of local government.
@@ -10,7 +12,7 @@ I lead a cool wee team crafting applications for citizen of Northern Ireland in 
 - LPS Reval 2023
 - Various class library toolkits
 
-⚡ Recently completed projects:
+:volcano: Recently completed projects:
 - <a href="https://check-eligibility.nidirect.gov.uk/probate">Apply for Probate online</a> Northern Ireland for DoJ (a massive project)
 - Pointer NI address lookup api
 - BCS time recording system
@@ -20,17 +22,22 @@ I lead a cool wee team crafting applications for citizen of Northern Ireland in 
 - Online divorce NI
 - Redundancy payments service NI
 - Various redevelopments of old legacy systems
+
+⚡ I am powered by:
+- Jimi Hendrix :guitar:
+- Queens of the Stone Age
+- Dr. Pepper
+- Pizza 🍕
+- Kinder Buenos
+
+⚡ Fun fact:
+- I am juggler and can juggle fire! 🔥
+
+📫 How to reach me:
+- Reach me on <a href="https://twitter.com/mikeatronic">twitter</a>
 <!--
-**MichaelStevenson2207/MichaelStevenson2207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

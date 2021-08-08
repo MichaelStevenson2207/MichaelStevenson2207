@@ -10,6 +10,8 @@ I use a variety of technologies and techniques i.e C#, Design patterns, SOLID, D
 
 :briefcase: What you get with me
 - Lots and lots of hard work
+- Secure, maintainable, scalable, performant and accessible sites that comply to <a href="https://www.w3.org/TR/WCAG21/">WCAG 2.1 AA standard</a>
+- I use lots of tools that check <a href="https://sonarcloud.io/organizations/dof-dss/projects">software quality</a>, security and accessibility
 - I craft sites that look the part as well as being functional
 - Expertise - I have covered alot of areas in 11 years of development
 - A genuine interest in your project and making things better

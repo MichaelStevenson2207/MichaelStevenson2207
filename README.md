@@ -2,7 +2,7 @@
 
 www.micstevenson.co.uk
 
-** Shortlisted for 2021 Digital DNA awards for <a href="https://twitter.com/DigitalDNAHQ/status/1402943625848360966">Developer of the year</a> **
+🥇: Shortlisted for 2021 Digital DNA awards for <a href="https://twitter.com/DigitalDNAHQ/status/1402943625848360966">Developer of the year</a>
 
 I am a lead developer in the Northern Ireland Civil Service in Enterprise Digital Development, Department of Finance.
 I lead a cool wee team crafting applications for citizen of Northern Ireland in order to improve their experience of local government.

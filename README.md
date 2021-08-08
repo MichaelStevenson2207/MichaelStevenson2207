@@ -19,6 +19,7 @@ I use a variety of technologies and techniques i.e C#, Design patterns, SOLID, D
 - I always inject some of my own personality into projects and care about the products I craft and release
 - A thirst for learning new things
 - Being on time and keeping you up to date
+- I generally like to complete engagements from start to finish
 
 🔭 I’m currently working on:
 - Department of Education NI Exceptional closures application

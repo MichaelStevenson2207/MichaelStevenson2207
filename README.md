@@ -2,6 +2,8 @@
 
 www.micstevenson.co.uk
 
+** Shortlisted for 2021 Digital DNA awards for <a href="https://twitter.com/DigitalDNAHQ/status/1402943625848360966">Developer of the year</a> **
+
 I am a lead developer in the Northern Ireland Civil Service in Enterprise Digital Development, Department of Finance.
 I lead a cool wee team crafting applications for citizen of Northern Ireland in order to improve their experience of local government.
 I use a variety of technologies and techniques i.e C#, Design patterns, SOLID, DotNet Core, MVC, api, ml.net, SQL, MySql, AWS, Cloud Foundry, Azure, Gov UK PaaS, CircleCI, AzureDevops, Units tests, UI tests etc...
@@ -43,7 +45,6 @@ I use a variety of technologies and techniques i.e C#, Design patterns, SOLID, D
 - Man City
 
 ⚡ Fun facts:
-- I was nominated and shortlisted for 2021 Digital DNA awards for <a href="https://twitter.com/DigitalDNAHQ/status/1402943625848360966">Developer of the year</a>
 - I am a juggler and can juggle fire! 🔥
 
 🌱 I’m currently learning ...

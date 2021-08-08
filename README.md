@@ -15,6 +15,7 @@ I use a variety of technologies and techniques i.e C#, Design patterns, SOLID, D
 - I craft sites that look the part as well as being functional
 - Expertise - I have covered alot of areas in 11 years of development
 - A genuine interest in your project and making things better
+- I always inject some of my own personality into projects and care about the products I craft and release
 - A thirst for learning new things
 - Being on time and keeping you up to date
 

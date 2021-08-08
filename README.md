@@ -6,6 +6,14 @@ I am a lead developer in the Northern Ireland Civil Service in Enterprise Digita
 I lead a cool wee team crafting applications for citizen of Northern Ireland in order to improve their experience of local government.
 I use a variety of technologies and techniques i.e C#, Design patterns, SOLID, DotNet Core, MVC, api, ml.net, SQL, MySql, AWS, Cloud Foundry, Azure, Gov UK PaaS, CircleCI, AzureDevops, Units tests, UI tests etc...
 
+:briefcase: What you get with me
+- Lots and lots of hard work
+- I craft sites that look the part as well as being functional
+- Expertise - I have covered alot of areas in 11 years of development
+- A genuine interest in your project and making things better
+- A thirst for learning new things
+- Being on time and keeping you up to date
+
 🔭 I’m currently working on:
 - Department of Education NI Exceptional closures application
 - Department of Education NI Apply to be a governor application

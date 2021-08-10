@@ -55,6 +55,7 @@ I use a variety of technologies and techniques i.e C#, Design patterns, SOLID, D
 🌱 I’m currently learning ...
 - Machine learning
 - AI
+- Monads
 
 📫 How to reach me:
 - Reach me on <a href="https://twitter.com/mikeatronic">twitter</a>

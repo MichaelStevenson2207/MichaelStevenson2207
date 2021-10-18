@@ -4,10 +4,9 @@ www.micstevenson.co.uk
 
 🥇 Shortlisted for 2021 Digital DNA awards for <a href="https://twitter.com/DigitalDNAHQ/status/1402943625848360966">Developer of the year</a>
 
-I am a lead developer in the Northern Ireland Civil Service in Enterprise Digital Development, Department of Finance. We develop applications for all 9 NICS departments and I have also advised other civil service departments in the ROI and UK.
+I am a developer who was previously in the Northern Ireland Civil Service in Enterprise Digital Development, Department of Finance. I developed applications for all 9 NICS departments and I have also advised other civil service departments in the ROI and UK. I am now currently working in the private sector.
 
-I lead a cool wee team crafting applications for citizen of Northern Ireland in order to improve their experience of local government.
-I use a variety of technologies and techniques i.e C#, Design patterns, SOLID, DotNet Core, MVC, api, ml.net, SQL, MySql, AWS, Cloud Foundry, Azure, Gov UK PaaS, CircleCI, AzureDevops, Units tests, UI tests etc...
+I use a variety of technologies and techniques i.e C#, SOLID, DotNet Core, MVC, api, ml.net, SQL, MySql, AWS, Cloud Foundry, Azure, Gov UK PaaS, CircleCI, AzureDevops, Units tests, UI tests etc...
 
 :briefcase: What you get with me
 - Lots and lots of hard work
@@ -22,13 +21,13 @@ I use a variety of technologies and techniques i.e C#, Design patterns, SOLID, D
 - I generally like to complete engagements from start to finish
 
 🔭 I’m currently working on:
-- Department of Education NI Exceptional closures application
-- Department of Education NI Apply to be a governor application
-- Department of Education NI <a href="https://de-institutions-api-sandbox.london.cloudapps.digital/index.html">Schools & Institutions api</a>
-- LPS Reval 2023
+- NI direct DotNet core template
 - Various class library toolkits
 
 :volcano: Recently completed projects:
+- Department of Education NI Exceptional closures application
+- Department of Education NI Apply to be a governor application
+- Department of Education NI <a href="https://de-institutions-api-sandbox.london.cloudapps.digital/index.html">Schools & Institutions api</a>
 - <a href="https://check-eligibility.nidirect.gov.uk/probate">Apply for Probate online</a> Northern Ireland for DoJ (a massive project)
 - <a href="https://edd-pointerapi-production.london.cloudapps.digital/index.html">Pointer NI</a> address lookup api
 - BCS time recording system

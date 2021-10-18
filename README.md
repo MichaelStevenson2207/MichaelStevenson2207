@@ -4,7 +4,7 @@ www.micstevenson.co.uk
 
 🥇 Shortlisted for 2021 Digital DNA awards for <a href="https://twitter.com/DigitalDNAHQ/status/1402943625848360966">Developer of the year</a>
 
-I am a developer who was previously in the Northern Ireland Civil Service in Enterprise Digital Development, Department of Finance. I developed applications for all 9 NICS departments and I have also advised other civil service departments in the ROI and UK. I am now currently working in the private sector.
+I am a developer who was previously in the Northern Ireland Civil Service in @dof-dss team. I developed applications for all 9 NICS departments and I have also advised other civil service departments in the ROI and UK. I am now currently working in the private sector.
 
 I use a variety of technologies and techniques i.e C#, SOLID, DotNet Core, MVC, api, ml.net, SQL, MySql, AWS, Cloud Foundry, Azure, Gov UK PaaS, CircleCI, AzureDevops, Units tests, UI tests etc...
 

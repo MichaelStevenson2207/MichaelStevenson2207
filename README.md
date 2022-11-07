@@ -56,3 +56,12 @@ I use a variety of technologies and techniques i.e C#, SOLID, DotNet Core, MVC, 
 
 📫 How to reach me:
 - Reach me on <a href="mailto:wubblyjuggly@gmail.com">email</a>
+
+My Azure certifications
+
+- Azure Fundamentals
+- Azure Developer Associate
+- Azure DevOps Engineer Expert
+- Azure Administrator Associate
+- Azure AI Fundamentals
+- Azure AI Engineer Associate

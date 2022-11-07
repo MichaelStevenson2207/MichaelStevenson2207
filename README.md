@@ -55,4 +55,4 @@ I use a variety of technologies and techniques i.e C#, SOLID, DotNet Core, MVC, 
 - Monads
 
 📫 How to reach me:
-- Reach me on <a href="https://twitter.com/mikeatronic">twitter</a>
+- Reach me on <a href="mailto:wubblyjuggly@gmail.com">email</a>

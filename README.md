@@ -29,6 +29,8 @@ I use a variety of technologies and techniques i.e C#, SOLID, DotNet Core, MVC, 
 - <a href="https://check-eligibility.nidirect.gov.uk/probate">Apply for Probate online</a> Northern Ireland for DoJ (a massive project)
 - <a href="https://edd-pointerapi-production.london.cloudapps.digital/index.html">Pointer NI</a> address lookup api
 - BCS time recording system
+- First provisional licence and renew bus / lorry applications on <a href="https://dvaonline.nidirect.gov.uk/Customer">Dva online</a>
+- Work on the Northern Ireland Driving Licence system
 
 :ship: Future projects:
 

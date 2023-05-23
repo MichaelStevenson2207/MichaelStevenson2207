@@ -65,3 +65,6 @@ My Azure certifications
 - Azure Administrator Associate
 - Azure AI Fundamentals
 - Azure AI Engineer Associate
+
+If you like any of my work please add a star or buy me a <a href="https://www.buymeacoffee.com/Mikeatronic">coffee</a>.
+

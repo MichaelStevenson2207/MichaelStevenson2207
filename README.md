@@ -70,3 +70,5 @@ My Azure certifications
 
 If you like any of my work please add a star or buy me a <a href="https://www.buymeacoffee.com/Mikeatronic">coffee</a>.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=MichaelStevenson2207&theme=dark)](https://git.io/streak-stats)
+

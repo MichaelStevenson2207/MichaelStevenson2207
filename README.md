@@ -1,6 +1,6 @@
 ### Hi I am Michael👋
 
-https://www.codewars.com/users/MichaelStevenson2207/badges/large
+![Code wars](https://www.codewars.com/users/MichaelStevenson2207/badges/large)
 
 🥇 Shortlisted for 2021 Digital DNA awards for <a href="https://twitter.com/DigitalDNAHQ/status/1402943625848360966">Developer of the year</a>
 
